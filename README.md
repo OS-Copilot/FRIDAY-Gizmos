@@ -16,7 +16,7 @@ We welcome contributions of all forms - whether it's adding new tools, fixing bu
 
 ## Community
 
-Join our community to connect with other agent enthusiasts, share your tools and demos, and collaborate on exciting initiatives. You can find us on [Slack]([https://slack.com/yourworkspace](https://join.slack.com/t/slack-ped8294/shared_invite/zt-2cqebow90-soac9UFKGZ2RcUy8PqjZrA)).
+Join our community to connect with other agent enthusiasts, share your tools and demos, and collaborate on exciting initiatives. You can find us on [Slack](https://join.slack.com/t/slack-ped8294/shared_invite/zt-2cqebow90-soac9UFKGZ2RcUy8PqjZrA).
 
 ## License
 
