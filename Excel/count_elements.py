@@ -1,4 +1,4 @@
-from friday.action.base_action import BaseAction
+from friday.tool_repository.basic_tools.base_action import BaseAction
 from collections import Counter
 class count_elements(BaseAction):
     def __init__(self):

@@ -1,5 +1,5 @@
 import os
-from friday.action.base_action import BaseAction
+from friday.tool_repository.basic_tools.base_action import BaseAction
 import subprocess
 
 class view_cpu_usage(BaseAction):

@@ -1,4 +1,4 @@
-from friday.action.base_action import BaseAction
+from friday.tool_repository.basic_tools.base_action import BaseAction
 import openpyxl
 from openpyxl.chart import LineChart, Reference
 from openpyxl.utils import get_column_letter

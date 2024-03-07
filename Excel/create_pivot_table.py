@@ -1,4 +1,4 @@
-from friday.action.base_action import BaseAction
+from friday.tool_repository.basic_tools.base_action import BaseAction
 import openpyxl
 import pandas as pd
 from openpyxl.utils.dataframe import dataframe_to_rows
