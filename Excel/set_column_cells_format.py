@@ -3,7 +3,7 @@ from openpyxl.styles import Font, PatternFill, Alignment
 from typing import List, Optional
 
 
-def set_column_cells_format(self,file_path: str, sheet_name: str, column_name: str, rows: List[int],
+def set_column_cells_format(file_path: str, sheet_name: str, column_name: str, rows: List[int],
                             font_name: Optional[str] = None, font_size: Optional[float] = None,
                             font_color: Optional[str] = None, fill_color: Optional[str] = None,
                             bold: Optional[bool] = None, italic: Optional[bool] = None,

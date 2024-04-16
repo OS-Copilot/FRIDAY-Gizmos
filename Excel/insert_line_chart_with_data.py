@@ -3,7 +3,7 @@ from openpyxl.chart import LineChart, Reference
 from openpyxl.utils import get_column_letter
 
 
-def insert_line_chart_with_data(self,file_path, sheet_name, chart_title, x_title, y_title, x_data, y_data):
+def insert_line_chart_with_data(file_path, sheet_name, chart_title, x_title, y_title, x_data, y_data):
     """
     Insert a line chart into an Excel sheet using the provided data lists.
 

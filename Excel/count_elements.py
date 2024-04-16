@@ -1,7 +1,7 @@
 from collections import Counter
 
 
-def count_elements(self,iterable):
+def count_elements(iterable):
     """
     Counts the frequency of each element in an iterable.
 

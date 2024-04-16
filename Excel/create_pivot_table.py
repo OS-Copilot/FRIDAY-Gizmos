@@ -3,7 +3,7 @@ import pandas as pd
 from openpyxl.utils.dataframe import dataframe_to_rows
 
 
-def create_pivot_table(self, excel_path, source_sheet, target_sheet, row_labels, col_labels, aggfunc):
+def create_pivot_table(excel_path, source_sheet, target_sheet, row_labels, col_labels, aggfunc):
     """
     Creates a simulated pivot table in an Excel file using openpyxl and pandas.
 

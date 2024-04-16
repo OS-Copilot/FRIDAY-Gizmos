@@ -4,7 +4,7 @@ import openpyxl
 from openpyxl.utils.exceptions import InvalidFileException
 
 
-def delete_sheet_from_excel(self, file_path: str, sheet_name: str) -> None:
+def delete_sheet_from_excel(file_path: str, sheet_name: str) -> None:
     """
     Deletes a sheet with the specified name from an Excel workbook.
 

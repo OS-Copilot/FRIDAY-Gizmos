@@ -5,7 +5,7 @@ from openpyxl.utils.exceptions import InvalidFileException
 from typing import List, Any, Optional
 
 
-def read_excel_sheet(self,file_path: str, sheet_name: Optional[str] = None) -> List[List[Any]]:
+def read_excel_sheet(file_path: str, sheet_name: Optional[str] = None) -> List[List[Any]]:
     """
     Reads all data from a specified sheet in an Excel file.
 

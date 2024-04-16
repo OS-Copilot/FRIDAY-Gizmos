@@ -2,7 +2,7 @@ import openpyxl
 from typing import Tuple
 
 
-def sort_excel_by_column(self,file_path: str, sheet_name: str, sort_by: str, order: str = 'asc') -> None:
+def sort_excel_by_column(file_path: str, sheet_name: str, sort_by: str, order: str = 'asc') -> None:
     """
     Sorts an Excel sheet based on a specified column in ascending or descending order.
 
