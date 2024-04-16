@@ -1,5 +1,3 @@
-import os
-from collections import Counter
 import openpyxl
 from openpyxl.utils.exceptions import InvalidFileException
 

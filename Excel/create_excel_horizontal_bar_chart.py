@@ -1,7 +1,5 @@
-import os
 from openpyxl import load_workbook
 from openpyxl.chart import BarChart, Reference
-from openpyxl.utils import get_column_letter
 
 
 def create_excel_horizontal_bar_chart(excel_path, chart_title, x_col_name, y_col_name, sheet_name):
